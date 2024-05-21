@@ -18,7 +18,7 @@ The instructions to run the JAR file && interact with the program
 
 For macOS platform:
 
-download the project5.jar file
+download the res/project5.jar file
 click on the downloaded file
 choose Open With -> JavaLauncher(default)
 When you open the file for the first time, the system will may notify you that "macOS cannot verify the developer of project5.jar. Are you sure you want to open it?"
