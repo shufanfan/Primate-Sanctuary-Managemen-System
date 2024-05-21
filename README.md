@@ -1,1 +1,1 @@
-# Primate-Sanctuary-Managemen-System
+# Primate-Sanctuary-Management-System
