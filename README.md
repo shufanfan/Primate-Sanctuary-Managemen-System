@@ -27,7 +27,7 @@ Done!
 
 Original design: You can see it in the UML document.
 
-Limitations of the program
+Limitations of the project
 
 If the name is empty, it can still be added into lists.
 When transferring monkeys from isolation to enclosure, the user need to enter the monkey's name again.
